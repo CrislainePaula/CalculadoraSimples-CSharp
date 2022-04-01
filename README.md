@@ -1,5 +1,5 @@
 
-# Calculadora Simples feita com CSharp
+# Calculadora Simples com interface feita com CSharp
 
 Calculadora simples feita com C#.   
 Nesse projeto construi uma calculadora simples,   
