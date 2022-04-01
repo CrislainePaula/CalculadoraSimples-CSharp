@@ -16,7 +16,11 @@ subtração, multiplicação e divisão.
 - Condição : if, else if e else.
 - Conversão de numero para string.
 
+## Execultavel do programa
 
+```bash
+  CalculadoraSimples-CSharp/Calculadora com Interface/Calculadora com Interface/bin/Debug
+```
 
 
 <img align= "center" alt="html" src="Screenshot_1.png">
