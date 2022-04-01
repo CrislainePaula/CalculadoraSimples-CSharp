@@ -1,0 +1,11 @@
+C:\Users\cris_\Desktop\Calculadora-comInterface\Calculadora com Interface\Calculadora com Interface\obj\Debug\Calculadora com Interface.csproj.AssemblyReference.cache
+C:\Users\cris_\Desktop\Calculadora-comInterface\Calculadora com Interface\Calculadora com Interface\obj\Debug\Calculadora com Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\cris_\Desktop\Calculadora-comInterface\Calculadora com Interface\Calculadora com Interface\obj\Debug\Calculadora_com_Interface.Form1.resources
+C:\Users\cris_\Desktop\Calculadora-comInterface\Calculadora com Interface\Calculadora com Interface\obj\Debug\Calculadora_com_Interface.Properties.Resources.resources
+C:\Users\cris_\Desktop\Calculadora-comInterface\Calculadora com Interface\Calculadora com Interface\obj\Debug\Calculadora com Interface.csproj.GenerateResource.cache
+C:\Users\cris_\Desktop\Calculadora-comInterface\Calculadora com Interface\Calculadora com Interface\obj\Debug\Calculadora com Interface.csproj.CoreCompileInputs.cache
+C:\Users\cris_\Desktop\Calculadora-comInterface\Calculadora com Interface\Calculadora com Interface\bin\Debug\CalculadoraSimples.exe.config
+C:\Users\cris_\Desktop\Calculadora-comInterface\Calculadora com Interface\Calculadora com Interface\bin\Debug\CalculadoraSimples.exe
+C:\Users\cris_\Desktop\Calculadora-comInterface\Calculadora com Interface\Calculadora com Interface\bin\Debug\CalculadoraSimples.pdb
+C:\Users\cris_\Desktop\Calculadora-comInterface\Calculadora com Interface\Calculadora com Interface\obj\Debug\CalculadoraSimples.exe
+C:\Users\cris_\Desktop\Calculadora-comInterface\Calculadora com Interface\Calculadora com Interface\obj\Debug\CalculadoraSimples.pdb
